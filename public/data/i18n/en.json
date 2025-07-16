@@ -1,0 +1,49 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "save": "Save",
+    "cancel": "Cancel",
+    "continue": "Continue",
+    "back": "Back"
+  },
+  "landing": {
+    "title": "CyberShikshaX",
+    "slogan": "Educate. Detect. Defend.",
+    "learnerButton": "I'm a Learner",
+    "userButton": "I'm a User",
+    "learnerDesc": "Master cybersecurity fundamentals through interactive lessons and quizzes",
+    "userDesc": "Access powerful security tools for real-world threat detection",
+    "about": "About",
+    "contact": "Contact",
+    "language": "Language"
+  },
+  "learn": {
+    "title": "Learning Module",
+    "subtitle": "Master cybersecurity fundamentals",
+    "selectClass": "Select Your Class",
+    "lessons": "Lessons",
+    "progress": "Progress",
+    "tutor": "AI Tutor",
+    "completed": "Completed",
+    "checkUpdates": "Check for Updates",
+    "downloadLessons": "Download Lessons",
+    "offlineMode": "Offline Mode"
+  },
+  "tools": {
+    "title": "Security Tools",
+    "subtitle": "Professional cybersecurity scanning suite",
+    "emailScanner": "Email Scanner",
+    "urlScanner": "URL Scanner",
+    "portScanner": "Port Scanner",
+    "results": "Results",
+    "generateReport": "Generate Report",
+    "scanEmail": "Scan Email",
+    "scanUrl": "Scan URL",
+    "scanPorts": "Scan Ports",
+    "scanning": "Scanning...",
+    "noScans": "No Scans Yet",
+    "startScanning": "Start scanning to see results here"
+  }
+}

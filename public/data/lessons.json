@@ -1,0 +1,92 @@
+{
+  "classes": {
+    "8": {
+      "name": "Class 8",
+      "topics": [
+        {
+          "id": "internet-safety",
+          "title": "Introduction to Internet Safety",
+          "duration": "15 min",
+          "content": "Learn the basics of staying safe online, including recognizing suspicious websites and protecting your personal information.",
+          "quiz": [
+            {
+              "question": "What should you do if you receive a suspicious email?",
+              "options": ["Open it immediately", "Delete it without reading", "Report it as spam", "Forward it to friends"],
+              "correct": 2
+            }
+          ]
+        },
+        {
+          "id": "password-security",
+          "title": "Password Security",
+          "duration": "20 min",
+          "content": "Understanding the importance of strong passwords and how to create and manage them securely.",
+          "quiz": [
+            {
+              "question": "Which is the strongest password?",
+              "options": ["password123", "P@ssw0rd!2024", "123456", "myname"],
+              "correct": 1
+            }
+          ]
+        },
+        {
+          "id": "social-media-safety",
+          "title": "Social Media Safety",
+          "duration": "18 min",
+          "content": "Best practices for using social media platforms safely and protecting your privacy online.",
+          "quiz": [
+            {
+              "question": "What information should you NOT share on social media?",
+              "options": ["Your favorite food", "Your full address", "Your hobby", "Your favorite color"],
+              "correct": 1
+            }
+          ]
+        }
+      ]
+    },
+    "9": {
+      "name": "Class 9",
+      "topics": [
+        {
+          "id": "malware-basics",
+          "title": "Malware Basics",
+          "duration": "25 min",
+          "content": "Understanding different types of malware including viruses, trojans, and ransomware.",
+          "quiz": [
+            {
+              "question": "What is malware?",
+              "options": ["Good software", "Malicious software", "Gaming software", "Educational software"],
+              "correct": 1
+            }
+          ]
+        },
+        {
+          "id": "phishing-awareness",
+          "title": "Phishing Awareness",
+          "duration": "22 min",
+          "content": "Learn to identify and avoid phishing attacks through email, websites, and social engineering.",
+          "quiz": [
+            {
+              "question": "What is phishing?",
+              "options": ["A type of fishing", "Stealing personal information through deception", "A computer game", "A social media platform"],
+              "correct": 1
+            }
+          ]
+        },
+        {
+          "id": "safe-browsing",
+          "title": "Safe Browsing",
+          "duration": "20 min",
+          "content": "Guidelines for safe web browsing and recognizing secure websites.",
+          "quiz": [
+            {
+              "question": "What does HTTPS stand for?",
+              "options": ["HyperText Transfer Protocol Secure", "High Technology Transfer Protocol", "HyperText Transport Protocol System", "Home Technology Transfer Protocol"],
+              "correct": 0
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -2,41 +2,60 @@
 @tailwind components;
 @tailwind utilities;
 
-/* Definition of the design system. All colors, gradients, fonts, etc should be defined here. 
-All colors MUST be HSL.
-*/
+/* CyberShikshaX Design System - Cybersecurity themed colors and gradients */
 
 @layer base {
   :root {
-    --background: 0 0% 100%;
-    --foreground: 222.2 84% 4.9%;
+    /* Dark cybersecurity theme */
+    --background: 222 84% 4.9%;
+    --foreground: 210 40% 98%;
 
-    --card: 0 0% 100%;
-    --card-foreground: 222.2 84% 4.9%;
+    --card: 224 71% 8%;
+    --card-foreground: 210 40% 98%;
 
-    --popover: 0 0% 100%;
-    --popover-foreground: 222.2 84% 4.9%;
+    --popover: 224 71% 8%;
+    --popover-foreground: 210 40% 98%;
 
-    --primary: 222.2 47.4% 11.2%;
-    --primary-foreground: 210 40% 98%;
+    /* Cyber blue primary */
+    --primary: 195 100% 50%;
+    --primary-foreground: 222 84% 4.9%;
+    --primary-glow: 195 100% 70%;
 
-    --secondary: 210 40% 96.1%;
-    --secondary-foreground: 222.2 47.4% 11.2%;
+    /* Secondary cyber accent */
+    --secondary: 240 21% 15%;
+    --secondary-foreground: 210 40% 98%;
 
-    --muted: 210 40% 96.1%;
-    --muted-foreground: 215.4 16.3% 46.9%;
+    --muted: 215 28% 17%;
+    --muted-foreground: 215 20% 65%;
 
-    --accent: 210 40% 96.1%;
-    --accent-foreground: 222.2 47.4% 11.2%;
+    /* Neon green accent */
+    --accent: 120 100% 50%;
+    --accent-foreground: 222 84% 4.9%;
 
-    --destructive: 0 84.2% 60.2%;
+    /* Danger red */
+    --destructive: 0 84% 60%;
     --destructive-foreground: 210 40% 98%;
 
-    --border: 214.3 31.8% 91.4%;
-    --input: 214.3 31.8% 91.4%;
-    --ring: 222.2 84% 4.9%;
+    --border: 215 28% 17%;
+    --input: 215 28% 17%;
+    --ring: 195 100% 50%;
 
-    --radius: 0.5rem;
+    --radius: 0.75rem;
+
+    /* Cybersecurity gradients */
+    --gradient-cyber: linear-gradient(135deg, hsl(195 100% 50%), hsl(240 100% 60%));
+    --gradient-matrix: linear-gradient(180deg, hsl(120 100% 25%), hsl(120 80% 15%));
+    --gradient-dark: linear-gradient(180deg, hsl(222 84% 4.9%), hsl(215 28% 17%));
+    --gradient-card: linear-gradient(145deg, hsl(224 71% 8%), hsl(215 28% 17%));
+    
+    /* Security themed shadows */
+    --shadow-cyber: 0 0 30px hsl(195 100% 50% / 0.3);
+    --shadow-glow: 0 0 20px hsl(195 100% 70% / 0.4);
+    --shadow-card: 0 8px 32px hsl(222 84% 4.9% / 0.6);
+    
+    /* Animations */
+    --transition-cyber: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    --animation-pulse: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
 
     --sidebar-background: 0 0% 98%;
 
@@ -100,6 +119,48 @@ All colors MUST be HSL.
   }
 
   body {
-    @apply bg-background text-foreground;
+    @apply bg-background text-foreground font-sans;
+    background: var(--gradient-dark);
+    min-height: 100vh;
+  }
+}
+
+@layer components {
+  /* Cyber-themed component styles */
+  .cyber-card {
+    @apply bg-card border border-border rounded-lg;
+    background: var(--gradient-card);
+    box-shadow: var(--shadow-card);
+    transition: var(--transition-cyber);
+  }
+  
+  .cyber-card:hover {
+    box-shadow: var(--shadow-cyber);
+    transform: translateY(-2px);
+  }
+  
+  .cyber-button {
+    @apply bg-primary text-primary-foreground px-6 py-3 rounded-lg font-semibold;
+    background: var(--gradient-cyber);
+    box-shadow: var(--shadow-glow);
+    transition: var(--transition-cyber);
+  }
+  
+  .cyber-button:hover {
+    box-shadow: var(--shadow-cyber);
+    transform: translateY(-1px);
+  }
+  
+  .glow-text {
+    text-shadow: 0 0 10px hsl(var(--primary) / 0.5);
+  }
+  
+  .matrix-bg {
+    background: var(--gradient-matrix);
+  }
+  
+  .pulse-glow {
+    animation: var(--animation-pulse);
+    box-shadow: var(--shadow-glow);
   }
 }
