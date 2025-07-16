@@ -1,92 +1,217 @@
 {
   "classes": {
     "8": {
-      "name": "Class 8",
+      "name": "Class 8 - Digital Citizenship Basics",
       "topics": [
         {
           "id": "internet-safety",
           "title": "Introduction to Internet Safety",
           "duration": "15 min",
-          "content": "Learn the basics of staying safe online, including recognizing suspicious websites and protecting your personal information.",
+          "content": "# Internet Safety Fundamentals\n\nThe internet is a powerful tool that connects billions of people worldwide. However, with great power comes great responsibility. Internet safety is about protecting yourself and others while online.\n\n## Key Principles of Internet Safety:\n\n### 1. Personal Information Protection\n- Never share your full name, address, phone number, or school name with strangers online\n- Be cautious about posting photos that reveal personal information\n- Use privacy settings on social media platforms\n\n### 2. Recognizing Suspicious Content\n- Be wary of links from unknown sources\n- Look for spelling errors and unusual formatting in messages\n- Trust your instincts - if something feels wrong, it probably is\n\n### 3. Safe Communication\n- Only communicate with people you know in real life\n- Tell a trusted adult if someone makes you uncomfortable online\n- Never agree to meet someone you met online\n\n### 4. Digital Footprint Awareness\n- Everything you post online can potentially be seen by others\n- Think before you post - would you be comfortable with your parents or teachers seeing this?\n- Remember that deleting something doesn't always make it completely gone\n\n## Common Online Threats:\n- **Cyberbullying**: Mean or hurtful behavior online\n- **Phishing**: Fake messages trying to steal your information\n- **Malware**: Harmful software that can damage your device\n- **Identity Theft**: When someone steals your personal information",
           "quiz": [
             {
-              "question": "What should you do if you receive a suspicious email?",
-              "options": ["Open it immediately", "Delete it without reading", "Report it as spam", "Forward it to friends"],
-              "correct": 2
+              "question": "What should you do if you receive a suspicious email from an unknown sender?",
+              "options": ["Open it immediately to see what it says", "Delete it without reading", "Report it as spam and delete it", "Forward it to all your friends"],
+              "correct": 2,
+              "explanation": "Always report suspicious emails as spam and delete them. This helps protect you and prevents the spread of potential threats."
+            },
+            {
+              "question": "Which of these is safe to share online with strangers?",
+              "options": ["Your home address", "Your school name", "Your favorite color", "Your phone number"],
+              "correct": 2,
+              "explanation": "General preferences like favorite colors are safe to share. Personal identifying information should never be shared with strangers."
             }
           ]
         },
         {
           "id": "password-security",
-          "title": "Password Security",
+          "title": "Password Security & Digital Keys",
           "duration": "20 min",
-          "content": "Understanding the importance of strong passwords and how to create and manage them securely.",
+          "content": "# Password Security: Your Digital Keys\n\nPasswords are like keys to your digital life. Just like you wouldn't give your house key to a stranger, you should protect your passwords carefully.\n\n## What Makes a Strong Password?\n\n### The 4 Essential Elements:\n1. **Length**: At least 8 characters (longer is better)\n2. **Complexity**: Mix of uppercase, lowercase, numbers, and symbols\n3. **Uniqueness**: Different password for each account\n4. **Unpredictability**: Not based on personal information\n\n### Strong Password Examples:\n- **Weak**: password123, myname2024\n- **Strong**: Tr@il#Hiking$2024, M0rning*Coffee!Run\n\n## Password Creation Techniques:\n\n### 1. Passphrase Method\nUse a memorable phrase and modify it:\n- Original: \"I love eating pizza on Fridays\"\n- Password: \"IL0v3E@ting!Pizza0nFrid@ys\"\n\n### 2. Substitution Method\nReplace letters with numbers/symbols:\n- \"Elephant\" becomes \"3l3ph@nt\"\n- Add numbers: \"3l3ph@nt2024\"\n\n### 3. First Letter Method\nUse first letters of a memorable sentence:\n- \"My dog Rex loves to play fetch in the park\"\n- Becomes: \"MdRl2pfItp!2024\"\n\n## Password Management:\n\n### Do's:\n- Use a password manager when possible\n- Enable two-factor authentication (2FA)\n- Change passwords if you suspect they're compromised\n- Use different passwords for important accounts\n\n### Don'ts:\n- Share passwords with friends\n- Write passwords on sticky notes\n- Use the same password everywhere\n- Use personal information (birthdays, pet names)\n\n## Two-Factor Authentication (2FA)\n2FA adds an extra layer of security by requiring:\n1. Something you know (password)\n2. Something you have (phone/app)\n\nThis makes it much harder for hackers to access your accounts.",
           "quiz": [
             {
-              "question": "Which is the strongest password?",
-              "options": ["password123", "P@ssw0rd!2024", "123456", "myname"],
-              "correct": 1
+              "question": "Which password is the strongest?",
+              "options": ["password123", "MyN@me2024", "Tr@il#Hiking$2024!", "123456789"],
+              "correct": 2,
+              "explanation": "The strongest password combines length, complexity, and unpredictability without using obvious personal information."
+            },
+            {
+              "question": "What is two-factor authentication (2FA)?",
+              "options": ["Using two passwords", "A security method requiring password + additional verification", "Having two accounts", "Changing password twice"],
+              "correct": 1,
+              "explanation": "2FA requires both your password and an additional form of verification, making your accounts much more secure."
+            },
+            {
+              "question": "How often should you use the same password for different accounts?",
+              "options": ["Always - it's easier to remember", "Only for unimportant accounts", "Never - each account should have a unique password", "Only for accounts with similar names"],
+              "correct": 2,
+              "explanation": "Each account should have a unique password to prevent a single breach from compromising multiple accounts."
             }
           ]
         },
         {
           "id": "social-media-safety",
-          "title": "Social Media Safety",
+          "title": "Social Media Safety & Digital Citizenship",
           "duration": "18 min",
-          "content": "Best practices for using social media platforms safely and protecting your privacy online.",
+          "content": "# Social Media Safety: Being a Good Digital Citizen\n\nSocial media platforms are where we connect, share, and express ourselves. However, they also present unique safety challenges that require careful navigation.\n\n## Understanding Social Media Risks:\n\n### 1. Privacy Concerns\n- **Oversharing**: Posting too much personal information\n- **Location tracking**: Revealing where you are or live\n- **Photo metadata**: Hidden information in pictures\n- **Friend requests**: Accepting strangers as friends\n\n### 2. Cyberbullying and Harassment\n- Mean comments or messages\n- Sharing embarrassing photos/videos without permission\n- Excluding someone from online groups\n- Creating fake accounts to harass others\n\n### 3. Scams and Fake Accounts\n- Fake profiles pretending to be someone else\n- Suspicious links leading to harmful websites\n- Contests or giveaways that steal information\n- Romance scams targeting young people\n\n## Safe Social Media Practices:\n\n### Privacy Settings Configuration\n1. **Profile Privacy**: Set to private/friends only\n2. **Photo Tagging**: Require approval for tags\n3. **Location Services**: Turn off location sharing\n4. **Search Visibility**: Limit who can find you\n\n### Think Before You Post\nAsk yourself these questions:\n- Would I be comfortable if my parents/teachers saw this?\n- Could this hurt someone's feelings?\n- Am I sharing too much personal information?\n- Will I still be proud of this post in 5 years?\n\n### The \"Grandmother Rule\"\nIf you wouldn't want your grandmother to see it, don't post it online!\n\n## Digital Citizenship Guidelines:\n\n### Be Respectful\n- Treat others online as you would in person\n- Think about how your words might affect others\n- Don't participate in online drama or spreading rumors\n\n### Be Responsible\n- Fact-check before sharing information\n- Don't plagiarize or steal others' content\n- Report inappropriate behavior or content\n\n### Be Safe\n- Keep personal information private\n- Block and report suspicious accounts\n- Tell a trusted adult about concerning interactions\n\n## Red Flags to Watch For:\n\n1. **Strangers asking personal questions**\n2. **Requests to meet in person**\n3. **Pressure to share photos or information**\n4. **Offers that seem too good to be true**\n5. **Messages asking you to keep secrets from parents**\n\n## If Something Goes Wrong:\n\n1. **Don't panic** - Most problems can be solved\n2. **Take screenshots** as evidence\n3. **Block the person** causing problems\n4. **Report to the platform** using their reporting tools\n5. **Tell a trusted adult** immediately\n6. **Don't retaliate** - This often makes things worse",
           "quiz": [
             {
-              "question": "What information should you NOT share on social media?",
-              "options": ["Your favorite food", "Your full address", "Your hobby", "Your favorite color"],
-              "correct": 1
+              "question": "What information should you NEVER share on social media?",
+              "options": ["Your favorite movie", "Your home address and phone number", "Your hobby", "Your favorite food"],
+              "correct": 1,
+              "explanation": "Personal identifying information like addresses and phone numbers should never be shared publicly as they can be used by people with bad intentions."
+            },
+            {
+              "question": "What should you do if someone you don't know sends you a friend request?",
+              "options": ["Accept it immediately", "Ignore or decline the request", "Ask them personal questions first", "Share their profile with friends"],
+              "correct": 1,
+              "explanation": "Only accept friend requests from people you know in real life. Unknown people could have harmful intentions."
+            },
+            {
+              "question": "What is the best approach when you see cyberbullying happening to someone else?",
+              "options": ["Join in to fit in", "Ignore it completely", "Report it and support the victim", "Share it with more people"],
+              "correct": 2,
+              "explanation": "Being a good digital citizen means standing up against cyberbullying by reporting it and supporting victims."
+            }
+          ]
+        },
+        {
+          "id": "digital-footprint",
+          "title": "Understanding Your Digital Footprint",
+          "duration": "16 min",
+          "content": "# Your Digital Footprint: The Trail You Leave Online\n\nEverything you do online leaves a trace - this is called your digital footprint. Understanding and managing this footprint is crucial for your future.\n\n## What is a Digital Footprint?\n\nYour digital footprint consists of:\n- **Active footprint**: Things you deliberately post or share\n- **Passive footprint**: Data collected about you without your direct action\n\n### Examples of Digital Footprints:\n- Social media posts, comments, and likes\n- Search history and website visits\n- Online purchases and reviews\n- Email communications\n- Photos and videos uploaded\n- Gaming activities and achievements\n\n## Why Does Your Digital Footprint Matter?\n\n### Future Opportunities\n- **College admissions**: Schools may check your online presence\n- **Job applications**: Employers often research candidates online\n- **Scholarships**: Organizations may review your digital behavior\n- **Relationships**: People form opinions based on your online activity\n\n### Long-term Consequences\n- Posts from years ago can resurface\n- Deleted content may still exist in archives\n- Screenshots can preserve embarrassing moments\n- Search engines may cache old information\n\n## Managing Your Digital Footprint:\n\n### 1. Google Yourself Regularly\n- Search your name monthly\n- Check what information appears publicly\n- Look at images associated with your name\n- Review social media profiles from a stranger's perspective\n\n### 2. Audit Your Social Media\n- Review old posts and delete inappropriate content\n- Update privacy settings regularly\n- Untag yourself from unflattering photos\n- Remove or update embarrassing comments\n\n### 3. Create Positive Content\n- Share achievements and volunteer work\n- Post about your hobbies and interests\n- Engage in positive discussions\n- Share educational or inspiring content\n\n### 4. Be Mindful of Others\n- Don't tag friends in compromising photos\n- Ask permission before posting photos of others\n- Respect others' privacy settings\n- Think about how your posts might affect friends\n\n## Building a Positive Digital Reputation:\n\n### Do:\n- Share your accomplishments and positive activities\n- Engage respectfully in online discussions\n- Support causes you believe in\n- Showcase your skills and talents\n- Help others with advice or support\n\n### Don't:\n- Post when you're angry or upset\n- Share inappropriate jokes or memes\n- Complain constantly about school, work, or life\n- Post photos from parties or inappropriate situations\n- Engage in arguments or drama online\n\n## The 24-Hour Rule:\nBefore posting anything significant, wait 24 hours and ask:\n- Is this something I'll be proud of tomorrow?\n- Could this be misunderstood or taken out of context?\n- Does this represent who I want to be?\n\n## Recovery Strategies:\nIf you've made mistakes:\n1. **Clean up**: Delete inappropriate content\n2. **Create positive content**: Overshadow negative posts\n3. **Learn**: Understand what went wrong\n4. **Move forward**: Focus on building a better digital presence\n\nRemember: Your digital footprint is like a permanent record. Make sure it tells the story you want people to read!",
+          "quiz": [
+            {
+              "question": "What is a digital footprint?",
+              "options": ["Your shoe size online", "The trail of data you leave when using the internet", "A type of computer virus", "Your internet speed"],
+              "correct": 1,
+              "explanation": "A digital footprint is all the information and data trails you leave behind when you use the internet, including posts, searches, and online activities."
+            },
+            {
+              "question": "Who might look at your digital footprint in the future?",
+              "options": ["Only your friends", "College admissions officers and employers", "No one important", "Only social media companies"],
+              "correct": 1,
+              "explanation": "Colleges, employers, and other important people often research candidates online, making your digital footprint very important for future opportunities."
             }
           ]
         }
       ]
     },
     "9": {
-      "name": "Class 9",
+      "name": "Class 9 - Cyber Threats & Protection",
       "topics": [
         {
           "id": "malware-basics",
-          "title": "Malware Basics",
+          "title": "Understanding Malware: Digital Threats",
           "duration": "25 min",
-          "content": "Understanding different types of malware including viruses, trojans, and ransomware.",
+          "content": "# Malware: Understanding Digital Threats\n\nMalware (malicious software) is one of the biggest threats in the digital world. Understanding what it is and how to protect yourself is essential for safe computing.\n\n## What is Malware?\n\nMalware is any software designed to harm, exploit, or gain unauthorized access to computer systems. The term combines \"malicious\" and \"software.\"\n\n## Types of Malware:\n\n### 1. Viruses\n- **What they do**: Attach to legitimate programs and spread when those programs run\n- **How they spread**: Email attachments, infected files, USB drives\n- **Damage**: Corrupt files, slow down computers, delete data\n- **Example**: A virus that spreads through email and deletes photos\n\n### 2. Trojans (Trojan Horses)\n- **What they do**: Disguise themselves as legitimate software\n- **How they spread**: Downloaded from suspicious websites, fake software updates\n- **Damage**: Steal passwords, give hackers remote access\n- **Example**: A fake game that actually steals your personal information\n\n### 3. Worms\n- **What they do**: Self-replicating programs that spread across networks\n- **How they spread**: Automatically through network connections\n- **Damage**: Consume bandwidth, overload servers, spread other malware\n- **Example**: A worm that spreads through messaging apps\n\n### 4. Ransomware\n- **What they do**: Encrypt your files and demand payment for the key\n- **How they spread**: Email attachments, malicious websites\n- **Damage**: Lock you out of your own files, demand money\n- **Example**: CryptoLocker, WannaCry attacks\n\n### 5. Spyware\n- **What they do**: Secretly monitor your activities\n- **How they spread**: Bundled with free software, malicious websites\n- **Damage**: Steal passwords, track browsing habits, identity theft\n- **Example**: Keyloggers that record everything you type\n\n### 6. Adware\n- **What they do**: Display unwanted advertisements\n- **How they spread**: Free software downloads, browser extensions\n- **Damage**: Slow down computers, privacy invasion, annoying pop-ups\n- **Example**: Browser hijackers that change your homepage\n\n## How Malware Spreads:\n\n### Common Infection Methods:\n1. **Email attachments**: Malicious files sent via email\n2. **Downloads**: Infected software from untrusted websites\n3. **USB drives**: Infected removable storage devices\n4. **Social engineering**: Tricking people into installing malware\n5. **Exploit kits**: Taking advantage of software vulnerabilities\n6. **Malicious websites**: Sites that automatically install malware\n\n## Signs Your Device May Be Infected:\n\n### Performance Issues:\n- Computer runs much slower than usual\n- Frequent crashes or freezing\n- Programs take longer to load\n- Unusual hard drive activity\n\n### Strange Behavior:\n- Pop-up ads appear constantly\n- Homepage or search engine changes unexpectedly\n- New toolbars or software you didn't install\n- Files disappear or become corrupted\n- Emails sent from your account that you didn't send\n\n### Network Issues:\n- Unusually high internet usage\n- Slow internet connection\n- Cannot access certain websites\n\n## Protection Strategies:\n\n### 1. Antivirus Software\n- Install reputable antivirus protection\n- Keep it updated automatically\n- Run regular full system scans\n- Don't disable real-time protection\n\n### 2. Software Updates\n- Keep operating system updated\n- Update all software regularly\n- Enable automatic updates when possible\n- Remove software you no longer use\n\n### 3. Safe Browsing Habits\n- Only download software from official websites\n- Be cautious of free software offers\n- Don't click on suspicious links\n- Avoid illegal download sites\n\n### 4. Email Safety\n- Don't open attachments from unknown senders\n- Be suspicious of urgent or threatening messages\n- Verify sender identity before opening attachments\n- Use email filtering and spam protection\n\n### 5. Backup Strategy\n- Regularly backup important files\n- Use multiple backup methods (cloud + physical)\n- Test backup restoration regularly\n- Keep backups disconnected when not in use\n\n## What to Do If Infected:\n\n### Immediate Steps:\n1. **Disconnect from internet** to prevent data theft\n2. **Boot in safe mode** to limit malware activity\n3. **Run antivirus scan** in safe mode\n4. **Use malware removal tools** like Malwarebytes\n5. **Change passwords** after cleaning\n6. **Restore from backup** if necessary\n\n### Prevention is Better Than Cure:\nRemember, it's much easier to prevent malware infection than to deal with the consequences. Stay vigilant and follow safe computing practices!",
           "quiz": [
             {
               "question": "What is malware?",
-              "options": ["Good software", "Malicious software", "Gaming software", "Educational software"],
-              "correct": 1
+              "options": ["Good software that helps your computer", "Malicious software designed to harm computer systems", "A type of computer game", "Software for creating websites"],
+              "correct": 1,
+              "explanation": "Malware is malicious software specifically designed to damage, disrupt, or gain unauthorized access to computer systems."
+            },
+            {
+              "question": "Which type of malware encrypts your files and demands payment?",
+              "options": ["Virus", "Trojan", "Ransomware", "Adware"],
+              "correct": 2,
+              "explanation": "Ransomware encrypts your files and demands payment (ransom) in exchange for the decryption key."
+            },
+            {
+              "question": "What should you do first if you suspect your computer is infected with malware?",
+              "options": ["Delete all your files", "Disconnect from the internet", "Buy a new computer", "Share your passwords"],
+              "correct": 1,
+              "explanation": "Disconnecting from the internet prevents the malware from stealing data or spreading to other devices."
             }
           ]
         },
         {
           "id": "phishing-awareness",
-          "title": "Phishing Awareness",
+          "title": "Phishing: Digital Deception Tactics",
           "duration": "22 min",
-          "content": "Learn to identify and avoid phishing attacks through email, websites, and social engineering.",
+          "content": "# Phishing: Don't Take the Bait!\n\nPhishing is one of the most common and dangerous cyber threats. It's like digital fishing - criminals cast out fake messages hoping someone will \"bite\" and give them personal information.\n\n## What is Phishing?\n\nPhishing is a cybercrime where attackers impersonate legitimate organizations to steal sensitive information like:\n- Passwords and usernames\n- Credit card numbers\n- Bank account information\n- Social Security numbers\n- Personal identification details\n\n## Types of Phishing Attacks:\n\n### 1. Email Phishing\n- **Most common type** of phishing attack\n- Fake emails that look like they're from banks, social media, or other trusted sources\n- Often contain urgent messages or threats\n- Include malicious links or attachments\n\n**Example**: \"Your PayPal account will be suspended unless you verify your information immediately!\"\n\n### 2. Spear Phishing\n- **Targeted attacks** aimed at specific individuals or organizations\n- Use personal information to make messages seem legitimate\n- Often target high-value individuals (executives, celebrities)\n- More sophisticated and harder to detect\n\n**Example**: An email to a CEO that appears to be from their assistant, asking for confidential company information.\n\n### 3. Whaling\n- **High-profile spear phishing** targeting senior executives\n- Attackers research their targets extensively\n- Often involve fake legal or business documents\n- Can result in massive financial losses\n\n### 4. Smishing (SMS Phishing)\n- Phishing attacks via **text messages**\n- Often claim to be from banks or delivery services\n- Include malicious links or phone numbers\n- Target mobile device users\n\n**Example**: \"Your package delivery failed. Click here to reschedule: [malicious link]\"\n\n### 5. Vishing (Voice Phishing)\n- **Phone-based phishing** attacks\n- Callers pretend to be from banks, tech support, or government agencies\n- Use social engineering to extract information\n- Often target elderly or less tech-savvy individuals\n\n### 6. Pharming\n- **Redirects users** to fake websites\n- Even typing the correct URL leads to a malicious site\n- Uses DNS poisoning or malware\n- Extremely dangerous as it's hard to detect\n\n## Common Phishing Tactics:\n\n### 1. Urgency and Fear\n- \"Your account will be closed in 24 hours!\"\n- \"Suspicious activity detected - act now!\"\n- \"Your computer is infected - download this fix immediately!\"\n\n### 2. Authority Impersonation\n- Fake emails from banks, government agencies, or tech companies\n- Use official logos and formatting\n- Claim to need verification for security purposes\n\n### 3. Too Good to Be True Offers\n- \"You've won a million dollars!\"\n- \"Free iPhone - just pay shipping!\"\n- \"Exclusive investment opportunity!\"\n\n### 4. Social Engineering\n- Use information from social media\n- Reference current events or news\n- Pretend to be friends or colleagues\n\n## Red Flags to Watch For:\n\n### In Emails:\n- **Generic greetings**: \"Dear Customer\" instead of your name\n- **Spelling/grammar errors**: Legitimate companies proofread their communications\n- **Mismatched URLs**: Hover over links to see where they really go\n- **Urgent language**: Pressure to act immediately\n- **Unexpected attachments**: Files you weren't expecting\n- **Requests for sensitive information**: Legitimate companies don't ask for passwords via email\n\n### In Websites:\n- **No HTTPS**: Missing secure connection (look for padlock icon)\n- **Suspicious URLs**: Misspelled domain names or unusual extensions\n- **Poor design**: Sloppy layout or low-quality images\n- **Popup login forms**: Especially on sites that don't normally have them\n\n### In Phone Calls:\n- **Unsolicited calls**: Especially about problems you weren't aware of\n- **Pressure tactics**: Rush to provide information immediately\n- **Requests for remote access**: Never let strangers control your computer\n- **Callback numbers**: That don't match the organization's official number\n\n## How to Verify Legitimacy:\n\n### Before Clicking or Responding:\n1. **Pause and think**: Does this make sense?\n2. **Check the sender**: Is the email address legitimate?\n3. **Verify independently**: Contact the organization directly using official contact information\n4. **Look for red flags**: Grammar errors, urgent language, generic greetings\n5. **Hover over links**: Check where they actually lead before clicking\n\n### Safe Verification Methods:\n- Call the organization using a number from their official website\n- Log into your account directly (not through email links)\n- Visit the official website by typing the URL manually\n- Ask a trusted tech-savvy friend or family member\n\n## Protection Strategies:\n\n### Technical Protections:\n1. **Email filters**: Use spam and phishing filters\n2. **Antivirus software**: Keep it updated and active\n3. **Browser security**: Use browsers with phishing protection\n4. **Two-factor authentication**: Add extra security to important accounts\n5. **Regular updates**: Keep all software current\n\n### Behavioral Protections:\n1. **Think before you click**: Always verify suspicious messages\n2. **Don't give personal information**: via email, phone, or text\n3. **Use strong passwords**: And don't reuse them\n4. **Be cautious on public Wi-Fi**: Avoid sensitive activities\n5. **Regular monitoring**: Check your accounts frequently\n\n## What to Do If You've Been Phished:\n\n### Immediate Actions:\n1. **Change passwords** immediately for affected accounts\n2. **Contact your bank** if financial information was compromised\n3. **Run antivirus scans** on your devices\n4. **Monitor accounts** for suspicious activity\n5. **Report the attack** to relevant authorities\n6. **Warn others** who might receive similar attacks\n\n### Long-term Recovery:\n- Monitor credit reports\n- Consider identity theft protection\n- Be extra vigilant for future attacks\n- Learn from the experience to avoid future incidents\n\n## Remember:\nLegitimate organizations will NEVER ask for sensitive information via email, text, or unsolicited phone calls. When in doubt, verify through official channels!",
           "quiz": [
             {
               "question": "What is phishing?",
-              "options": ["A type of fishing", "Stealing personal information through deception", "A computer game", "A social media platform"],
-              "correct": 1
+              "options": ["A type of fishing with nets", "A cybercrime where attackers impersonate legitimate organizations to steal information", "A way to improve internet speed", "A method of backing up files"],
+              "correct": 1,
+              "explanation": "Phishing is a cybercrime where attackers deceive people by impersonating legitimate organizations to steal sensitive information like passwords and financial data."
+            },
+            {
+              "question": "Which of these is a red flag in a phishing email?",
+              "options": ["Personalized greeting with your name", "Professional formatting", "Generic greeting like 'Dear Customer'", "Clear contact information"],
+              "correct": 2,
+              "explanation": "Phishing emails often use generic greetings because they're sent to many people. Legitimate companies usually personalize their communications."
+            },
+            {
+              "question": "What should you do if you receive a suspicious email claiming to be from your bank?",
+              "options": ["Click the link to verify your account", "Reply with your account information", "Contact your bank directly using their official phone number", "Forward it to all your friends"],
+              "correct": 2,
+              "explanation": "Always verify suspicious communications by contacting the organization directly using official contact information, not the information provided in the suspicious message."
+            },
+            {
+              "question": "What is 'smishing'?",
+              "options": ["Phishing via email", "Phishing via text messages", "Phishing via phone calls", "Phishing via social media"],
+              "correct": 1,
+              "explanation": "Smishing is phishing conducted via SMS (text messages), combining 'SMS' and 'phishing'."
             }
           ]
-        },
+        }
+      ]
+    },
+    "10": {
+      "name": "Class 10 - Privacy & Data Protection",
+      "topics": [
         {
-          "id": "safe-browsing",
-          "title": "Safe Browsing",
-          "duration": "20 min",
-          "content": "Guidelines for safe web browsing and recognizing secure websites.",
+          "id": "digital-privacy",
+          "title": "Digital Privacy: Protecting Your Personal Information",
+          "duration": "28 min",
+          "content": "# Digital Privacy: Your Right to Control Your Information\n\nIn the digital age, privacy isn't about hiding something wrong—it's about maintaining control over your personal information and protecting yourself from potential harm.\n\n## Understanding Digital Privacy:\n\n### What is Digital Privacy?\nDigital privacy is your right to control:\n- What personal information is collected about you\n- How that information is used\n- Who has access to your data\n- How long your information is stored\n\n### Why Privacy Matters:\n1. **Personal Safety**: Protects you from stalking, harassment, and physical harm\n2. **Financial Security**: Prevents identity theft and financial fraud\n3. **Professional Reputation**: Maintains your professional image\n4. **Personal Freedom**: Allows you to express yourself without judgment\n5. **Relationship Protection**: Keeps personal relationships private\n\n## Types of Personal Information:\n\n### Personally Identifiable Information (PII):\n- **Direct identifiers**: Name, Social Security number, driver's license\n- **Indirect identifiers**: Date of birth, ZIP code, gender\n- **Biometric data**: Fingerprints, facial recognition, voice patterns\n- **Financial information**: Bank accounts, credit card numbers\n\n### Digital Behavioral Data:\n- **Browsing history**: Websites you visit\n- **Search queries**: What you search for online\n- **Location data**: Where you go and when\n- **Social interactions**: Who you communicate with\n- **Purchase history**: What you buy online and offline\n- **App usage**: How you use mobile applications\n\n## How Your Data is Collected:\n\n### 1. Direct Collection\n- **Forms and surveys**: Information you voluntarily provide\n- **Account registration**: Creating profiles on websites\n- **Purchase transactions**: Shopping online or in stores\n- **Communication**: Emails, messages, phone calls\n\n### 2. Automatic Collection\n- **Cookies**: Small files that track your browsing\n- **Device fingerprinting**: Unique characteristics of your device\n- **Location tracking**: GPS and Wi-Fi based location services\n- **Behavioral tracking**: How you interact with websites\n\n### 3. Third-Party Collection\n- **Data brokers**: Companies that buy and sell personal information\n- **Social media scraaping**: Collecting public profile information\n- **Cross-platform tracking**: Linking your activities across different services\n- **Public records**: Government databases and court records\n\n## Major Privacy Threats:\n\n### 1. Data Breaches\n- **What happens**: Hackers steal databases containing personal information\n- **Consequences**: Identity theft, financial fraud, privacy invasion\n- **Examples**: Equifax breach (147 million people), Facebook Cambridge Analytica\n- **Protection**: Use unique passwords, monitor accounts, consider credit freezes\n\n### 2. Corporate Surveillance\n- **What happens**: Companies collect and monetize your personal data\n- **Consequences**: Targeted manipulation, discrimination, loss of privacy\n- **Examples**: Google's data collection, Facebook's tracking\n- **Protection**: Use privacy-focused services, limit data sharing\n\n### 3. Government Surveillance\n- **What happens**: Government agencies monitor digital communications\n- **Consequences**: Loss of freedom, chilling effect on expression\n- **Examples**: NSA surveillance programs, internet censorship\n- **Protection**: Use encryption, understand your rights\n\n### 4. Identity Theft\n- **What happens**: Criminals use your personal information to impersonate you\n- **Consequences**: Financial loss, damaged credit, legal problems\n- **Signs**: Unexpected bills, unfamiliar accounts, credit score changes\n- **Protection**: Secure personal information, monitor credit reports\n\n## Privacy Protection Strategies:\n\n### 1. Browser and Search Privacy\n**Use Private Browsing:**\n- Incognito/Private mode doesn't save browsing history\n- Still visible to ISPs and websites\n- Not a complete privacy solution\n\n**Alternative Search Engines:**\n- DuckDuckGo: Doesn't track users\n- Startpage: Google results without tracking\n- Searx: Open-source search engine\n\n**Browser Extensions:**\n- uBlock Origin: Blocks ads and trackers\n- Privacy Badger: Prevents tracking\n- HTTPS Everywhere: Forces secure connections\n\n### 2. Social Media Privacy\n**Privacy Settings Review:**\n- Make profiles private\n- Limit who can see your posts\n- Control who can find you\n- Disable location tracking\n- Review tagged photos\n\n**Information Sharing Guidelines:**\n- Avoid posting personal details\n- Don't share location in real-time\n- Be cautious about check-ins\n- Think before posting photos\n- Limit personal information in profiles\n\n### 3. Mobile Device Privacy\n**App Permissions:**\n- Review app permissions before installing\n- Disable unnecessary permissions\n- Regularly audit installed apps\n- Use app privacy labels (iOS) or permission managers (Android)\n\n**Location Services:**\n- Turn off location for unnecessary apps\n- Use \"While Using App\" instead of \"Always\"\n- Disable location history\n- Turn off location sharing with friends\n\n### 4. Communication Privacy\n**Encrypted Messaging:**\n- Signal: End-to-end encrypted messaging\n- WhatsApp: Encrypted by default\n- Telegram: Secret chats with encryption\n- Avoid SMS for sensitive communications\n\n**Email Privacy:**\n- Use encrypted email services (ProtonMail, Tutanota)\n- Enable two-factor authentication\n- Be cautious about email content\n- Use aliases for different purposes\n\n### 5. Financial Privacy\n**Banking and Shopping:**\n- Use virtual credit card numbers\n- Monitor statements regularly\n- Use secure payment methods\n- Avoid saving payment information on websites\n- Shop on secure websites (HTTPS)\n\n**Identity Monitoring:**\n- Check credit reports annually\n- Set up fraud alerts\n- Consider credit freezes\n- Monitor bank and credit card statements\n\n## Understanding Privacy Policies:\n\n### What to Look For:\n1. **Data collection**: What information is collected\n2. **Data use**: How your information is used\n3. **Data sharing**: Who your information is shared with\n4. **Data retention**: How long your information is kept\n5. **User rights**: What control you have over your data\n6. **Contact information**: How to reach the company about privacy\n\n### Red Flags in Privacy Policies:\n- Vague language about data use\n- Sharing data with \"partners\" without specifics\n- No mention of user rights\n- Difficulty finding or understanding the policy\n- Automatic data collection without opt-out options\n\n## Building Privacy Habits:\n\n### Daily Practices:\n1. **Think before you share**: Consider the long-term consequences\n2. **Use strong, unique passwords**: With a password manager\n3. **Keep software updated**: Install security patches promptly\n4. **Review privacy settings**: Regularly check and update them\n5. **Be skeptical**: Question requests for personal information\n\n### Regular Reviews:\n- Monthly: Review social media privacy settings\n- Quarterly: Check credit reports and financial statements\n- Annually: Audit online accounts and delete unused ones\n- As needed: Update privacy settings when platforms change\n\n## Your Privacy Rights:\n\n### Legal Protections:\n- **GDPR** (Europe): Right to access, correct, and delete data\n- **CCPA** (California): Right to know what data is collected and sold\n- **COPPA** (US): Special protections for children under 13\n- **State laws**: Varying privacy protections by location\n\n### Exercising Your Rights:\n1. **Request your data**: See what information companies have about you\n2. **Correct inaccuracies**: Fix wrong information in your records\n3. **Delete data**: Request deletion of unnecessary information\n4. **Opt out**: Remove yourself from data sales and marketing\n5. **File complaints**: Report privacy violations to authorities\n\nRemember: Privacy is not about having something to hide—it's about having something to protect!",
           "quiz": [
             {
-              "question": "What does HTTPS stand for?",
-              "options": ["HyperText Transfer Protocol Secure", "High Technology Transfer Protocol", "HyperText Transport Protocol System", "Home Technology Transfer Protocol"],
-              "correct": 0
+              "question": "What is digital privacy?",
+              "options": ["Hiding illegal activities online", "Your right to control what personal information is collected and how it's used", "Using a computer in private", "Keeping your computer password secret"],
+              "correct": 1,
+              "explanation": "Digital privacy is about having control over your personal information - what's collected, how it's used, and who has access to it."
+            },
+            {
+              "question": "Which of these is considered Personally Identifiable Information (PII)?",
+              "options": ["Your favorite color", "Your Social Security number", "Your favorite movie", "The weather in your city"],
+              "correct": 1,
+              "explanation": "Social Security numbers are direct identifiers that can be used to identify you specifically, making them PII that needs protection."
+            },
+            {
+              "question": "What should you do to protect your privacy on social media?",
+              "options": ["Accept all friend requests", "Share your location in real-time", "Review and adjust privacy settings regularly", "Post all personal details"],
+              "correct": 2,
+              "explanation": "Regularly reviewing and adjusting privacy settings helps ensure you control who can see your information and posts."
             }
           ]
         }
       ]
     }
+  },
+  "cyberTutorResponses": {
+    "greetings": [
+      "Hello! I'm your AI CyberTutor. I'm here to help you learn about cybersecurity. What would you like to know?",
+      "Welcome to CyberShikshaX! Ask me anything about cybersecurity, online safety, or digital privacy.",
+      "Hi there! I'm excited to help you become a cybersecurity expert. What's your question?"
+    ],
+    "keywords": {
+      "password": "Strong passwords are your first line of defense! Use a combination of uppercase, lowercase, numbers, and symbols. Make it at least 8 characters long and unique for each account. Consider using a passphrase like 'Coffee$Loves#Morning2024!'",
+      "phishing": "Phishing attacks try to trick you into giving away personal information. Always verify the sender, look for spelling errors, and never click suspicious links. When in doubt, contact the organization directly using their official website or phone number.",
+      "malware": "Malware is malicious software designed to harm your device. Protect yourself by keeping software updated, using antivirus protection, avoiding suspicious downloads, and being careful with email attachments. Remember: prevention is easier than removal!",
+      "social media": "Stay safe on social media by adjusting privacy settings, thinking before you post, never sharing personal information with strangers, and being kind to others. Remember: anything you post online can potentially be seen by others, including future employers!",
+      "wifi": "Public Wi-Fi can be risky! Avoid accessing sensitive information like banking on public networks. If you must use public Wi-Fi, consider using a VPN, make sure websites use HTTPS, and turn off auto-connect features.",
+      "backup": "Regular backups are essential! Follow the 3-2-1 rule: 3 copies of important data, 2 different storage types, 1 offsite backup. This protects you from ransomware, hardware failure, and accidental deletion.",
+      "privacy": "Privacy settings are your friend! Review them regularly on all your accounts. Limit who can see your posts, turn off location tracking when not needed, and be selective about what information you share online.",
+      "cyberbullying": "Cyberbullying is serious and you're not alone. Don't respond to bullies, save evidence by taking screenshots, block the person, report to the platform, and tell a trusted adult. Remember: it's not your fault, and there are people who can help."
+    },
+    "fallback": [
+      "That's an interesting question! While I may not have a specific answer, I encourage you to explore our lessons for detailed information about cybersecurity topics.",
+      "Great question! Cybersecurity is a vast field. Check out our class-based lessons for comprehensive coverage of this topic.",
+      "I'd love to help you learn more about that! Our learning modules cover many cybersecurity concepts in detail."
+    ]
   }
 }
